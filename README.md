@@ -1,4 +1,4 @@
-# CrudApp
+# CrudApp With asp.net 
 ### Crud app with asp.net core 3.1 and idintity 
 ## Tools
 sql server , v.s 
